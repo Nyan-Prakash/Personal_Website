@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.7dcf579f.css",
-    "main.js": "/static/js/main.a715a75b.js",
+    "main.js": "/static/js/main.f3af53a5.js",
     "static/js/787.b9eec8de.chunk.js": "/static/js/787.b9eec8de.chunk.js",
     "static/media/bigMe.JPG": "/static/media/bigMe.0a88c075270c72ab39e5.JPG",
     "static/media/Robot.png": "/static/media/Robot.37f0ebbafbd9b99a08e1.png",
+    "static/media/autodog_harness.jpg": "/static/media/autodog_harness.924a43431131df4f23a1.jpg",
     "index.html": "/index.html",
     "main.7dcf579f.css.map": "/static/css/main.7dcf579f.css.map",
-    "main.a715a75b.js.map": "/static/js/main.a715a75b.js.map",
+    "main.f3af53a5.js.map": "/static/js/main.f3af53a5.js.map",
     "787.b9eec8de.chunk.js.map": "/static/js/787.b9eec8de.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7dcf579f.css",
-    "static/js/main.a715a75b.js"
+    "static/js/main.f3af53a5.js"
   ]
 }
