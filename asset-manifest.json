@@ -1,28 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.ea5aebc8.css",
-    "main.js": "/static/js/main.b898a8ce.js",
+    "main.css": "/static/css/main.db375534.css",
+    "main.js": "/static/js/main.f5c13ffc.js",
     "static/js/787.b9eec8de.chunk.js": "/static/js/787.b9eec8de.chunk.js",
     "static/media/bigMe.JPG": "/static/media/bigMe.0a88c075270c72ab39e5.JPG",
     "static/media/jump_logoreal.png": "/static/media/jump_logoreal.b2e9b79bb26f58935697.png",
-    "static/media/NyanPrakash_Resume.pdf": "/static/media/NyanPrakash_Resume.eaa346d4b67201997145.pdf",
-    "static/media/ktt.png": "/static/media/ktt.86c5443b5a5c1f992989.png",
-    "static/media/Robot.png": "/static/media/Robot.37f0ebbafbd9b99a08e1.png",
-    "static/media/autodog_harness.JPG": "/static/media/autodog_harness.924a43431131df4f23a1.JPG",
     "static/media/resumeicon.png": "/static/media/resumeicon.d459cb8db93ae73407c6.png",
     "static/media/github.png": "/static/media/github.68a91d2530ad2071a47d.png",
     "static/media/ln.png": "/static/media/ln.b08ed49102d3c8b1dbf1.png",
-    "static/media/healthway_image.png": "/static/media/healthway_image.3025a3ef9493dd4ca410.png",
+    "static/media/healthway_image.png": "/static/media/healthway_image.1aa3ff0ce24aa8982c7b.png",
     "static/media/ecoway_image.png": "/static/media/ecoway_image.3bf53ba45937596647df.png",
+    "static/media/autodog_image.png": "/static/media/autodog_image.4a9bd7893b158eb1a77d.png",
     "static/media/gryphone_image.png": "/static/media/gryphone_image.e15e8dd7c7d2b5f553ce.png",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.ea5aebc8.css.map": "/static/css/main.ea5aebc8.css.map",
-    "main.b898a8ce.js.map": "/static/js/main.b898a8ce.js.map",
+    "main.db375534.css.map": "/static/css/main.db375534.css.map",
+    "main.f5c13ffc.js.map": "/static/js/main.f5c13ffc.js.map",
     "787.b9eec8de.chunk.js.map": "/static/js/787.b9eec8de.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea5aebc8.css",
-    "static/js/main.b898a8ce.js"
+    "static/css/main.db375534.css",
+    "static/js/main.f5c13ffc.js"
   ]
 }
