@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.db375534.css",
-    "main.js": "/static/js/main.5f966723.js",
+    "main.css": "/static/css/main.53dcd866.css",
+    "main.js": "/static/js/main.e6556aca.js",
     "static/js/787.b9eec8de.chunk.js": "/static/js/787.b9eec8de.chunk.js",
     "static/media/bigMe.JPG": "/static/media/bigMe.0a88c075270c72ab39e5.JPG",
     "static/media/jump_logoreal.png": "/static/media/jump_logoreal.b2e9b79bb26f58935697.png",
     "static/media/healthwaybg.webp": "/static/media/healthwaybg.a5d8bf99de613b1ab11b.webp",
     "static/media/resumeicon.png": "/static/media/resumeicon.d459cb8db93ae73407c6.png",
-    "static/media/github.png": "/static/media/github.68a91d2530ad2071a47d.png",
     "static/media/ln.png": "/static/media/ln.b08ed49102d3c8b1dbf1.png",
+    "static/media/github.png": "/static/media/github.94da0bfcf6f452d21507.png",
     "static/media/healthway_image.png": "/static/media/healthway_image.1aa3ff0ce24aa8982c7b.png",
     "static/media/ecoway_image.png": "/static/media/ecoway_image.3bf53ba45937596647df.png",
     "static/media/autodog_image.png": "/static/media/autodog_image.4a9bd7893b158eb1a77d.png",
     "static/media/gryphone_image.png": "/static/media/gryphone_image.e15e8dd7c7d2b5f553ce.png",
     "index.html": "/index.html",
-    "main.db375534.css.map": "/static/css/main.db375534.css.map",
-    "main.5f966723.js.map": "/static/js/main.5f966723.js.map",
+    "main.53dcd866.css.map": "/static/css/main.53dcd866.css.map",
+    "main.e6556aca.js.map": "/static/js/main.e6556aca.js.map",
     "787.b9eec8de.chunk.js.map": "/static/js/787.b9eec8de.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.db375534.css",
-    "static/js/main.5f966723.js"
+    "static/css/main.53dcd866.css",
+    "static/js/main.e6556aca.js"
   ]
 }
