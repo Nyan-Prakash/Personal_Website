@@ -1,11 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.414788f0.css",
-    "main.js": "/static/js/main.29de2ecb.js",
+    "main.js": "/static/js/main.4fb1b491.js",
     "static/js/787.b9eec8de.chunk.js": "/static/js/787.b9eec8de.chunk.js",
     "static/media/bigMe.JPG": "/static/media/bigMe.0a88c075270c72ab39e5.JPG",
     "static/media/jump_logoreal.png": "/static/media/jump_logoreal.b2e9b79bb26f58935697.png",
+    "static/media/DeepGuardImage.png": "/static/media/DeepGuardImage.a2d0d3ffe5dec22f3462.png",
     "static/media/healthwaybg.webp": "/static/media/healthwaybg.a5d8bf99de613b1ab11b.webp",
+    "static/media/deepguard.webp": "/static/media/deepguard.47384fe5eaec13bd5c35.webp",
     "static/media/resumeicon.png": "/static/media/resumeicon.d459cb8db93ae73407c6.png",
     "static/media/ln.png": "/static/media/ln.b08ed49102d3c8b1dbf1.png",
     "static/media/github.png": "/static/media/github.94da0bfcf6f452d21507.png",
@@ -15,11 +17,11 @@
     "static/media/gryphone_image.png": "/static/media/gryphone_image.e15e8dd7c7d2b5f553ce.png",
     "index.html": "/index.html",
     "main.414788f0.css.map": "/static/css/main.414788f0.css.map",
-    "main.29de2ecb.js.map": "/static/js/main.29de2ecb.js.map",
+    "main.4fb1b491.js.map": "/static/js/main.4fb1b491.js.map",
     "787.b9eec8de.chunk.js.map": "/static/js/787.b9eec8de.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.414788f0.css",
-    "static/js/main.29de2ecb.js"
+    "static/js/main.4fb1b491.js"
   ]
 }
